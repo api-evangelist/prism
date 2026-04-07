@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Testing
   - Mocking
+  - Testing
 url: >-
   https://raw.githubusercontent.com/api-evangelist/prism/refs/heads/main/apis.yml
 created: '2026-03-25'
@@ -19,8 +19,8 @@ apis:
       Prism is an open source HTTP mock and validation server from Stoplight that generates dynamic mock responses and validates requests against OpenAPI specifications.
     humanURL: https://stoplight.io/open-source/prism
     tags:
-      - Testing
       - Mocking
+      - Testing
     properties:
       - type: Documentation
         url: https://docs.stoplight.io/docs/prism
