@@ -24,14 +24,14 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.stoplight.io/docs/prism
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/stoplightio/prism
 common:
   - type: Website
     url: https://stoplight.io/open-source/prism
   - type: Documentation
     url: https://docs.stoplight.io/docs/prism
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/stoplightio/prism
   - type: Integrations
     url: https://stoplight.io/integrations
