@@ -3,7 +3,7 @@ name: Prism
 description: >-
   Prism is an open source HTTP mock and validation server from Stoplight that generates dynamic mock responses and validates requests against OpenAPI specifications.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Mocking
   - Testing
