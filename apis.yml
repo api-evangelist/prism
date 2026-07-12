@@ -27,6 +27,10 @@ apis:
       - type: GitHubRepository
         url: https://github.com/stoplightio/prism
 common:
+  - type: DomainSecurity
+    url: security/prism-domain-security.yml
+  - type: Blog
+    url: https://blog.stoplight.io/feed
   - type: Website
     url: https://stoplight.io/open-source/prism
   - type: Documentation
