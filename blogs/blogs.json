@@ -1,0 +1,21 @@
+{
+  "repo": "prism",
+  "feeds": [
+    {
+      "source": "https://blog.stoplight.io/feed",
+      "feed_url": "https://blog.stoplight.io/feed",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://github.com/stoplightio/prism",
+      "feed_url": "https://github.com/stoplightio/prism",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 11
+}
